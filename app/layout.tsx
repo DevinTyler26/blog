@@ -10,7 +10,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Link href={'/'}>
           <h1 className="text-2xl text-white font-bold mt-4">Devin&apos;s Blog</h1>
         </Link>
-        <p className="text-slate-300">👋 Welcome to my tech blog 💻</p>
+        <p className="text-slate-300">👋 Welcome to my plat blog 🌱</p>
+        <p className="text-slate-200 text-sm">Blog posts are created via ChatGPT</p>
       </div>
     </header>
   );
