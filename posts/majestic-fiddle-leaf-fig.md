@@ -10,7 +10,7 @@ The fiddle leaf fig, also known as the ficus lyrata, is a popular and majestic h
 
 One of the most striking features of fiddle leaf figs is their large, glossy leaves. These leaves can grow up to 12 inches long and 6 inches wide, and have a unique violin or fiddle shape that gives the plant its name. The leaves are a deep green color and have a shiny, waxy texture.
 
-In addition to their leaves, fiddle leaf figs also produce aerial roots that help the plant to climb and attach itself to tree trunks in its natural habitat. These roots can also be trained to grow along a moss pole or other support in cultivation.
+In cultivation, fiddle leaf figs do not require support and do well in standard potting soil.
 
 ## Care and Cultivation
 
@@ -28,4 +28,4 @@ Air layering is another method of propagating fiddle leaf figs, which is done by
 
 ## Conclusion
 
-Fiddle leaf figs are truly majestic plants that are sure to add a unique and striking touch to any collection. With their large, glossy leaves and aerial roots, they are sure to be a conversation starter. And with their relatively easy care requirements, fiddle leaf figs make a great choice for plant enthusiasts of all levels. And now you know how to propagate your own Fiddle leaf fig!
+Fiddle leaf figs are truly majestic plants that are sure to add a unique and striking touch to any collection. With their large, glossy leaves and easy care requirements, they are sure to be a conversation starter. And with their relatively easy care requirements, fiddle leaf figs make a great choice for plant enthusiasts of all levels. And now you know how to propagate your own Fiddle leaf fig!
