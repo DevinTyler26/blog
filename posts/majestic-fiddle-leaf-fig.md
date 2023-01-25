@@ -1,6 +1,6 @@
 ---
 title: 'The Majestic Fiddle Leaf Fig'
-subtitle: 'I used ChatGPT to generate this blog post about Fiddle Leaf Figs'
+subtitle: "ChatGPT's thoughts on Fiddle Leaf Figs"
 date: '2023-01-24'
 ---
 
