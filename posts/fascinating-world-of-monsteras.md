@@ -2,9 +2,12 @@
 title: 'The Fascinating World of Monsteras'
 subtitle: 'I used ChatGPT to generate this blog post about Monsteras'
 date: '2023-01-25'
+tags: ['Monsteras', 'Swiss cheese plants', 'tropical vines', 'split leaves', 'fenestration', 'rainforests', 'Central and South America', 'care and cultivation', 'hydroponics', 'houseplants']
 ---
 
 Monsteras, also known as Swiss cheese plants, are a popular and unique type of tropical vine that are known for their distinctive split leaves. These plants are native to the rainforests of Central and South America, and have been a favorite among plant enthusiasts for their striking appearance and ease of care.
+
+![monstera hero](/images/hero/fascinating-world-of-monsteras.png)
 
 ## The Unique Look of Monsteras
 

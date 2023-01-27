@@ -2,9 +2,12 @@
 title: "The Snake Plant: A Beginner's Guide to Propagation"
 subtitle: "ChatGPT's take on how to propagate a snake plant"
 date: '2023-01-26'
+tags: ['Snake plant', 'Sansevieria', "Mother-in-law's tongue", 'Propagation', 'Houseplants', 'Gardening', 'Division', 'Leaf cuttings', 'Indoor plants', 'Low-maintenance plants']
 ---
 
 The snake plant, also known as the mother-in-law's tongue or sansevieria, is a popular houseplant known for its tolerance to a wide range of conditions. This hardy plant is also incredibly easy to propagate, making it a great option for those just starting out with gardening.
+
+![snake plant hero](/images/hero/snake-plant-propagation.png)
 
 ## Why propagate snake plants?
 

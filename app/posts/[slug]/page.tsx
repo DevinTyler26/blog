@@ -10,24 +10,34 @@ export const generateStaticParams = async () => {
   }));
 };
 
+const BackButton = () => {
+  return (
+    <div className="mb-0 text-slate-600 text-xs hover:underline">
+      <Link href="/">{'< Back'}</Link>
+    </div>
+  );
+};
+
 const PostPage = (props: any) => {
   const slug = props.params.slug;
   const {
-    data: { title, date },
+    data: { title, date, tags },
     content,
   } = getPostContent(slug);
   return (
     <div>
-      <div className="mb-0">
-        <Link href="/">{'< Back'}</Link>
-      </div>
-      <div className="mb-12 text-center">
+      <BackButton />
+
+      <div className="text-center">
         <h1 className="text-2xl text-slate-600">{title}</h1>
-        <p className="text-slate-400 mt-2">{date}</p>
+        <p className="text-slate-400 my-2">{date}</p>
+        <hr />
       </div>
       <article className="prose">
         <Markdown>{content}</Markdown>
       </article>
+      <p className="text-slate-300 text-xs">Tags: {tags.join(', ')}</p>
+      <BackButton />
     </div>
   );
 };

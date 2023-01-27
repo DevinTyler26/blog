@@ -2,9 +2,12 @@
 title: 'The Majestic Fiddle Leaf Fig'
 subtitle: "ChatGPT's thoughts on Fiddle Leaf Figs"
 date: '2023-01-24'
+tags: ['Fiddle leaf fig', 'Ficus lyrata', 'Houseplants', 'Tropical plants', 'Indoor gardening', 'Plant care', 'Propagation', 'Stem cuttings', 'Air layering', 'Fiddle leaf fig propagation']
 ---
 
 The fiddle leaf fig, also known as the ficus lyrata, is a popular and majestic houseplant known for its large, violin-shaped leaves. Native to the tropical rainforests of West Africa, these plants can grow up to 10 feet tall in their natural habitat.
+
+![fiddle leaf fig hero image](/images/hero/majestic-fiddle-leaf-fig.png)
 
 ## Unique Features of Fiddle Leaf Figs
 
