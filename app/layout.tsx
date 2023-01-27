@@ -5,7 +5,7 @@ import '../styles/globals.css';
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const header = (
     <header>
-      <div className="text-center bg-slate-800 p-8 my-6 rounded-md">
+      <div className="text-center bg-gradient-to-b from-slate-800 to-green-900 p-8 my-6 rounded-md">
         <Image src={'/logo.png'} alt="logo" width={60} height={60} className="mx-auto" />
         <Link href={'/'}>
           <h1 className="text-2xl text-white font-bold mt-4">Devin&apos;s Blog</h1>
