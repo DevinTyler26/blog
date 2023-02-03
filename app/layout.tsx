@@ -1,5 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { AnalyticsWrapper } from '../components/analytics';
 import '../styles/globals.css';
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
@@ -17,7 +18,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
   const footer = (
     <footer className="border-t border-slate-200 mt-6 py-6 text-center text-slate-400 text-sm">
-      <p>Developed by Devin | Blog posts generated via ChatGPT</p>
+      <p>
+        Developed by{' '}
+        <Link href="https://devincunningham.com" className="hover:underline">
+          Devin
+        </Link>{' '}
+        | Blog posts generated via ChatGPT
+      </p>
     </footer>
   );
 
@@ -29,6 +36,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           {header}
           {children}
           {footer}
+          <AnalyticsWrapper />
         </div>
       </body>
     </html>
