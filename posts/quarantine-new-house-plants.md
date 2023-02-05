@@ -1,7 +1,7 @@
 ---
 title: 'Why You Should Quarantine New House Plants You Bring Home'
 subtitle: 'A Simple Step to Ensure the Health of Your House Plant Collection'
-date: '2023-02-5'
+date: '2023-02-05'
 tags: ['quarantine', 'new house plants', 'plant care', 'disease prevention', 'pest prevention', 'environmental adjustment', 'house plant collection', 'greenery in the home']
 ---
 
