@@ -18,7 +18,7 @@ export default function Head(props: any) {
       {/* <meta property="twitter:creator" content={config.social.twitter} /> */}
       <meta property="twitter:title" content={title} />
       <meta property="twitter:description" content={subtitle} />
-      <meta property="og:image" content={`/images/hero/${slug}.png`} />
+      <meta property="og:image" content={`/images/hero/${slug}.jpg`} />
       <link rel="icon" href="/favicon.ico" />
     </>
   );

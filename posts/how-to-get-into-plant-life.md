@@ -22,7 +22,7 @@ tags:
 
 Are you thinking about getting into plant life but don't know where to start? Don't worry, you're not alone. Many people are drawn to the beauty and serenity of plants but don't know where to begin. Here are some tips to help you get started on your journey into the world of plants.
 
-![plant life hero](/images/hero/how-to-get-into-plant-life.png)
+![plant life hero](/images/hero/how-to-get-into-plant-life.jpg)
 
 ### Start Small
 

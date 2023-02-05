@@ -20,7 +20,7 @@ tags:
 
 The ponytail palm (Beaucarnea recurvata) is a popular houseplant that is loved for its unique appearance and ease of care. With its long, thin trunk and bushy top, the ponytail palm adds an interesting touch to any room. Here are some tips to help you care for your ponytail palm and keep it healthy.
 
-![ponytail palm hero](/images/hero/ponytail-palm-care.png)
+![ponytail palm hero](/images/hero/ponytail-palm-care.jpg)
 
 ## Light
 

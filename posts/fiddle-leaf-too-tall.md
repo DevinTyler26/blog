@@ -7,7 +7,7 @@ tags: ['fiddle leaf fig', 'house plants', 'plant care', 'pruning']
 
 Congratulations on your thriving fiddle leaf fig tree! As your plant reaches new heights, it can be a bit daunting to figure out what to do next. Here are a few tips on how to care for your fiddle leaf fig as it reaches the ceiling:
 
-![fiddle leaf fig hero](/images/hero/fiddle-leaf-too-tall.png)
+![fiddle leaf fig hero](/images/hero/fiddle-leaf-too-tall.jpg)
 
 1. **Prune and shape your plant:** As your fiddle leaf fig grows taller, it may start to become leggy and lose its shape. Prune any branches that are too long or too thin to help maintain the overall shape of the plant. This will also encourage new growth and bushier foliage.
 

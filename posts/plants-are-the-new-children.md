@@ -19,7 +19,7 @@ tags:
 
 Plants have always been a staple in our homes, but in recent years, they have become much more than just a decorative addition. With the rise of urban living and the busy lifestyles we lead, more and more people are turning to plants as a form of companionship.
 
-![plants new children hero](/images/hero/plants-are-the-new-children.png)
+![plants new children hero](/images/hero/plants-are-the-new-children.jpg)
 
 ## The Rise of Indoor Gardening
 

@@ -7,7 +7,7 @@ tags: ['Houseplants', 'Beginner-friendly plants', 'Low-light plants', 'Indoor ga
 
 As a software engineer living in the Pacific Northwest, I understand the importance of bringing a little bit of nature into our homes. Not only do house plants add visual appeal, they also have a calming effect that can help reduce stress and improve overall well-being.
 
-![indoor house plants hero](/images/hero/top-6-house-plants-for-beginners.png)
+![indoor house plants hero](/images/hero/top-6-house-plants-for-beginners.jpg)
 If you're new to the world of house plants, it can be overwhelming trying to figure out which ones to start with. That's why I've compiled a list of the top 6 house plants for beginners that are easy to care for and thrive in a variety of indoor conditions.
 
 1. Snake Plant (Sansevieria)
