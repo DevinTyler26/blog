@@ -1,7 +1,7 @@
 ---
 title: 'Caring for a Ponytail Palm: A Guide to Growing a Healthy Houseplant'
 subtitle: 'A Comprehensive Guide to Growing a Healthy Ponytail Palm'
-date: '2023-02-2'
+date: '2023-02-02'
 tags:
   [
     'Ponytail palm care',

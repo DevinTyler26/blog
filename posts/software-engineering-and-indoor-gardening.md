@@ -1,7 +1,7 @@
 ---
 title: 'The Hidden Connections Between Software Engineering and Indoor Gardening'
 subtitle: 'Exploring the Surprising Parallels and Benefits of Two Seemingly Different Pursuits'
-date: '2023-02-7'
+date: '2023-02-07'
 tags: ['Software Engineering', 'Indoor Gardening', 'Hidden Connections', 'Careful Planning', 'Attention to Detail', 'Adapting to Change', 'Harvesting Results', 'Personal and Professional Growth']
 ---
 
