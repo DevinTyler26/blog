@@ -1,6 +1,7 @@
 import fs from 'fs';
 import Image from 'next/image';
 import Link from 'next/link';
+import dayjs from 'dayjs';
 import { PostMetadata } from './PostMetadata';
 
 const PostPreview = (props: PostMetadata) => {
@@ -18,7 +19,7 @@ const PostPreview = (props: PostMetadata) => {
       <div className="p-4">
         <h2 className="text-green-600">{props.title}</h2>
         <hr className="" />
-        <p className="text-slate-400 text-xs mb-4">{props.date}</p>
+        <p className="text-slate-400 text-xs mb-4">{dayjs(props.date).format('MMM D, YYYY')}</p>
         <p className="text-slate-700 text-sm">{props.subtitle}</p>
       </div>
     </Link>

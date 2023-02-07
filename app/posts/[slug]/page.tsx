@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Markdown from 'markdown-to-jsx';
+import dayjs from 'dayjs';
 import getPostMetadata from '../../../components/getPostMetadata';
 import getPostContent from '@/components/getPostContent';
 
@@ -28,7 +29,7 @@ const PostPage = (props: any) => {
     <div>
       <div className="text-center">
         <h1 className="text-2xl text-slate-600">{title}</h1>
-        <p className="text-slate-400 my-2">{date}</p>
+        <p className="text-slate-400 my-2">{dayjs(date).format('MMMM D, YYYY')}</p>
         <BackButton />
         <hr />
       </div>
