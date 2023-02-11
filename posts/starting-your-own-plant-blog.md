@@ -22,9 +22,9 @@ tags:
 
 Starting a plant blog can be a fun and rewarding hobby. Here are some tips to get you started on your journey:
 
-![start your own plant blog hero](/images/hero/starting-your-own-plant-blog.jpg)
+![start your own plant blog hero](/images/hero?)?
 
-## Choose a niche
+## Choose a nich?
 
 Decide what type of plants you want to focus on and what topics you want to cover. This could be anything from succulent care to bonsai cultivation. Having a clear focus will help you attract a loyal following and make it easier to create content.
 
