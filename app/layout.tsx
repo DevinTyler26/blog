@@ -7,9 +7,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const header = (
     <header>
       <div className="text-center bg-gradient-to-b from-green-800 to-green-900 p-8 my-6 rounded-md">
-        <Image src={'/logo.png'} alt="logo" width={60} height={60} className="mx-auto" />
+        {/* <Image src={'/logo.png'} alt="logo" width={60} height={60} className="mx-auto" /> */}
         <Link href={'/'}>
-          <h1 className="text-2xl text-white font-bold mt-4">Devin&apos;s Blog</h1>
+          <h1 className="text-2xl text-white font-bold mt-4">/</h1>
         </Link>
         <p className="text-slate-300">👋 Welcome to my plant blog 🌱</p>
       </div>
