@@ -6,10 +6,10 @@ import { PostMetadata } from './PostMetadata';
 
 const PostPreview = (props: PostMetadata) => {
   let imagePath = `/images/hero/${props.slug}.jpg`;
-  if (fs.existsSync(`public/${imagePath}`)) {
-  } else {
-    imagePath = '/images/hero/no-image.jpg';
-  }
+  // if (fs.existsSync(`public/${imagePath}`)) {
+  // } else {
+  //   imagePath = '/images/hero/no-image.jpg';
+  // }
   return (
     <Link
       href={`/posts/${props.slug}`}
