@@ -2,7 +2,7 @@ import { PostMetadata } from '@/components/PostMetadata';
 import PostPreview from '@/components/PostPreview';
 
 async function getData() {
-  const res = await fetch(`${process.env.NEXT_URL}/api/postMetadata`, { next: { revalidate: 600 } });
+  const res = await fetch(`${process.env.NEXT_URL}/api/postMetadata`, { next: { revalidate: 60 } });
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
 
