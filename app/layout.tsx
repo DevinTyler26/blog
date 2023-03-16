@@ -3,6 +3,10 @@ import Link from 'next/link';
 import { AnalyticsWrapper } from '../components/analytics';
 import '../styles/globals.css';
 
+export const metadata = {
+  title: `${process.env.SITE_NAME}${process.env.NODE_ENV === 'production' ? '' : ' - test'}`,
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   const header = (
     <header>
