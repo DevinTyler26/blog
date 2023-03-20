@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server';
 import getPostMetadata from '@/components/getPostMetadata';
 
 export async function GET(request: Request) {
+  const _requestHeaders = new Headers(request.headers);
   const content = getPostMetadata();
   const currentDate = new Date();
   const timezoneOffset = currentDate.getTimezoneOffset();
