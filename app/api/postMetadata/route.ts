@@ -12,5 +12,5 @@ export async function GET(request: Request) {
       return objDate <= currentDate;
     })
     .sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
-  return NextResponse.json({ success: true, data: posts });
+  return NextResponse.json({ success: true, data: posts, currentDate });
 }
