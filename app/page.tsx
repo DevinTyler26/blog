@@ -1,25 +1,10 @@
-import { PostMetadata } from '@/components/PostMetadata';
+import getPostMetadata from '@/components/getPostMetadata';
 import PostPreview from '@/components/PostPreview';
 
-async function getData(): Promise<{ posts: PostMetadata[] }> {
-  const res = await fetch(`${process.env.NEXT_URL}/api/posts`, { next: { revalidate: 60 * 60 } });
-  if (!res.ok) {
-    throw new Error('Failed to fetch data');
-  }
-
-  return res.json();
-}
-
-const HomePage = async () => {
-  const { posts } = await getData();
-
-  return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {posts.map((post) => (
-        <PostPreview key={post.slug} {...post} />
-      ))}
-    </div>
-  );
+const HomePage = () => {
+  const postMetadata = getPostMetadata();
+  const postPreviews = postMetadata.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf()).map((post) => <PostPreview key={post.slug} {...post} />);
+  return <div className="grid grid-cols-1 md:grid-cols-2 gap-4">{postPreviews}</div>;
 };
 
 export default HomePage;
