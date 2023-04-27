@@ -26,7 +26,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Link href="https://devincunningham.com" className="hover:underline">
           Devin
         </Link>{' '}
-        | Blog posts generated via ChatGPT
+        | Blog posts generated via ChatGPT 
       </p>
     </footer>
   );

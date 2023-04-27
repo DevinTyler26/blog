@@ -1,14 +1,9 @@
 import { PostMetadata } from '@/components/PostMetadata';
 import PostPreview from '@/components/PostPreview';
 
-async function getData() {
-  const res = await fetch(`${process.env.NEXT_URL}/api/postMetadata`, { next: { revalidate: 60 } });
-  // The return value is *not* serialized
-  // You can return Date, Map, Set, etc.
-
-  // Recommendation: handle errors
+async function getData(): Promise<{ posts: PostMetadata[] }> {
+  const res = await fetch(`${process.env.NEXT_URL}/api/posts`, { next: { revalidate: 60 * 60 } });
   if (!res.ok) {
-    // This will activate the closest `error.js` Error Boundary
     throw new Error('Failed to fetch data');
   }
 
@@ -16,16 +11,15 @@ async function getData() {
 }
 
 const HomePage = async () => {
-  const { data } = await getData();
+  const { posts } = await getData();
+
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-      {data.map((post: PostMetadata) => (
+      {posts.map((post) => (
         <PostPreview key={post.slug} {...post} />
       ))}
     </div>
   );
 };
-
-export const revalidate = 60;
 
 export default HomePage;
